@@ -82,7 +82,7 @@ section p{
 
 section p a{
     text-decoration: none;
-    color: #ff0000;
+    color: #ff00bf;
 }
 
 
@@ -94,7 +94,7 @@ section form {
     flex-wrap: wrap;
     max-width: 500px;
     border-radius: 10px;
-    border: 2px solid #db241b;
+    border: 2px solid #db1bdb;
     background-color: #080202;
 }
 
@@ -112,8 +112,8 @@ section form textarea {
     margin-bottom: 1em;
     padding: 10px;
     border-radius: 5px;
-    border: 1px solid #db241b;
-    outline-color: #db241b;
+    border: 1px solid #db1bc1;
+    outline-color: #db1bc1;
     background-color: #ffffff;
     color: #000000;
 }
@@ -121,7 +121,7 @@ section form textarea {
 section form input[type='submit'] {
     cursor: pointer;
     margin-top: 1.5em;
-    background-color: #db241b;
+    background-color: #db1b9e;
     color: #ffffff;
     font-family: "Poppins", sans-serif;
     font-weight: 700;
@@ -131,7 +131,7 @@ section form input[type='submit'] {
 }
 
 section form input[type='submit']:hover {
-    background-color: #ab1c15;
+    background-color: #ab1581;
 }
 
 section form p {
@@ -141,12 +141,12 @@ section form p {
 
 section form p a {
     text-decoration: none;
-    color: #db241b;
+    color: #db1ba8;
 }
 
 section form select:focus,
 section form input:focus,
 section form textarea:focus {
-    border-color: #db241b;
+    border-color: #db1bcb;
 }
 
